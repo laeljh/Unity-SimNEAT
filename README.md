@@ -16,4 +16,4 @@ The network is optimized in such way that it promotes for the smallest size of n
 If you want to use this in your project, please let me know it's there. I would love to make a mension of your project in a portfolio I'm building. 
 I am also happy to help you understand it better (altought I made sure to leave some comments in the file) and possibly (if your project excites me) I can help you make any adjustments and optimalization for better fitting for hte purpose. 
 
-If you think this is SimthingNEAT then hit me up. I'm looking for Junior dev jobs. 
+If you think this is SimthingNEAT then hit me up. 
